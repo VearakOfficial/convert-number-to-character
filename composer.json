@@ -1,0 +1,15 @@
+{
+    "name": "phsar121/convert-number-to-character",
+    "autoload": {
+        "psr-4": {
+            "Phsar121\\ConvertNumberToCharacter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thachvearak1991",
+            "email": "76250542+VearakOfficial@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
